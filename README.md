@@ -1,3 +1,7 @@
+<!-- ![NFDI4Energy Logo](https://github.com/NFDI4Energy/.github/blob/main/nfdi4energy_logo_cut.png) -->
+
+  <img src="https://github.com/NFDI4Energy/.github/blob/main/nfdi4energy_logo_cut.png" alt="GitHub Logo" width="600" />
+
 
 # Our Mission: Driving Digital Transformation in Energy Research
 NFDI4Energy aims to establish a sustainable, transparent, and reproducible research infrastructure for interdisciplinary energy systems research. Given the urgent need to transform energy systems toward net-zero greenhouse gas emissions, we face numerous new research challenges. These challenges are further intensified by the increasing complexity of systems, driven by new interconnections between energy sectors such as electricity, heat, and mobility. Research efforts towards these Cyber-Physical-Energy-Systems (CPES) heavily rely on modelling and (co-)simulation-based approaches. Tracking of models together with all data creates a complex software and data management challenge.
